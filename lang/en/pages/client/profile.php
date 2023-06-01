@@ -1,0 +1,17 @@
+return [
+    'dashboard' => 'Dashboard',
+    'garage' => 'Garage',
+    'edit_profile' => 'Edit Profile',
+    'order_history' => 'Order History',
+    'order_details' => 'Order Details',
+    'addresses' => 'Addresses',
+    'edit_address' => 'Edit Address',
+    'password' => 'Password',
+    'logout' => 'Logout',
+    'title_edit_profile' => 'Edit Profile',
+    'first_name' => 'First Name',
+    'last_name' => 'Last Name',
+    'email' => 'Email Address',
+    'phone' => 'Phone Number',
+    'save_button' => 'Save',
+];

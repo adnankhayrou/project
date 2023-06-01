@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.material-symbols-outlined {
+    font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+}
+
+.material-symbols-outlined {
+    margin: 0 !important;
+}
+body,
+html {
+    background-color: $body-bg !important;
+    transition: 0.3s ease-in-out;
+    // overflow-x: hidden;
+
+    @media (max-width: 767px) {
+        // padding-bottom: 55px;
+        // padding-top: 60px;
+    }
+
+    ol {
+        padding: 0;
+        &:not(.classic) {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+    }
+    ul {
+        padding: 0;
+        list-style: none;
+        li {
+            &:nth-child(1) {
+                animation-delay: 0.2s;
+                animation-delay: 0.1s;
+            }
+        }
+    }
+    a {
+        text-decoration: none;
+        &:hover {
+            text-decoration: none;
+        }
+        &:link {
+            text-decoration: none;
+        }
+    }
+}
+.add-product,
+.modal {
+    .invalid-feedback {
+        margin-top: -10px;
+        margin-bottom: 10px;
+    }
+}
+.modal-dialog {
+    @media (max-width: 576px) {
+        width: auto !important;
+    }
+}
+.clearfix {
+    clear: both;
+    width: 0;
+    height: 0;
+}
+
+.display-cartes {
+    display: none;
+}
+
+.tagify {
+    width: 100%;
+    padding: 2px;
+    border: 1px solid #999;
+    outline: none;
+    box-shadow: none;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.swiper-horizontal
+    > .swiper-pagination-bullets
+    .swiper-pagination-bullet-active,
+.swiper-pagination-horizontal.swiper-pagination-bullets
+    .swiper-pagination-bullet-active {
+    background-color: #888 !important;
+    width: 15px !important;
+    border-radius: 5px !important;
+}
+
+.start-btn {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    .start-ads {
+        padding: 7px 10px !important;
+        margin: auto;
+    }
+}
+.alert-message-wrapper {
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    z-index: 999;
+    padding: 10px;
+}
+.alert-message-close {
+    margin-left: 50px;
+    border-radius: 50%;
+}

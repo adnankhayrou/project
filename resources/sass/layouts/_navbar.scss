@@ -1,0 +1,15 @@
+.navbar {
+    .connection-btn {
+        margin: 0 10px;
+        margin-top: 7px;
+        background-color: #eee;
+        padding: 5px 15px;
+        border-radius: 5px;
+        border: none;
+        color: $textColor1;
+        a,
+        i {
+            color: $textColor1;
+        }
+    }
+}

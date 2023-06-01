@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'dashboard' => 'Dashboard',
+    'garage' => 'Garage',
+    'edit_profile' => 'Edit Profile',
+    'order_history' => 'Order History',
+    'order_details' => 'Order Details',
+    'addresses' => 'Addresses',
+    'edit_address' => 'Edit Address',
+    'password' => 'Password',
+    'logout' => 'Logout',
+    'order_history' => 'Order History',
+    'order' => 'Order',
+    'date' => 'Date',
+    'status' => 'Status',
+    'total' => 'Total',
+    'pending' => 'Pending',
+    'shipped' => 'Shipped',
+    'completed' => 'Completed',
+    'order' => 'Order',
+    'date' => 'Date',
+    'status' => 'Status',
+    'total' => 'Total',
+    'pending' => 'Pending',
+    'shipped' => 'Shipped',
+    'completed' => 'Completed',
+];

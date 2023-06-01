@@ -1,0 +1,22 @@
+.upper {
+    height: 70px;
+    background-color: $body-bg;
+    .logo {
+        height: 60px;
+        display: block;
+        img {
+            height: 100%;
+        }
+    }
+    .customer-services {
+        .title {
+            display: block;
+            color: $mainColor;
+        }
+        .phone {
+            display: block;
+            color: $textColor1;
+            font-weight: bold;
+        }
+    }
+}

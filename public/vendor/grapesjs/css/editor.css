@@ -1,0 +1,156 @@
+html {
+    -ms-touch-action: none !important;
+}
+.gjs-one-bg {
+    background-color: #212838 !important;
+    
+}
+
+.gjs-one-color {
+    color: #212838 !important;
+    
+}
+
+.gjs-one-color-h:hover {
+    color: #212838 !important;
+    
+}
+
+.gjs-two-bg {
+    background-color: #8acff4 !important;
+    
+}
+
+.gjs-two-color {
+    color: #8acff4 !important;
+    
+}
+
+.gjs-two-color-h:hover {
+    color: #8acff4 !important;
+    
+}
+
+.gjs-three-bg {
+    background-color: #4694be !important;
+    
+}
+
+.gjs-three-color {
+    color: #4694be !important;
+    
+}
+
+.gjs-three-color-h:hover {
+    color: #4694be !important;
+    
+}
+
+.gjs-four-bg {
+    background-color: #4694be !important;
+    
+}
+
+.gjs-four-color {
+    color: #4694be !important;
+    
+}
+
+.gjs-four-color-h:hover {
+    color: #4694be !important;
+    
+}
+
+
+.icons-flex {
+    background-size: 70% 65% !important !important;
+    height: 15px !important;
+    width: 17px !important;
+    opacity: 0.9 !important;
+}
+
+.icon-dir-row {
+    background: url("https://grapesjs.com/img/flex-dir-row.png") no-repeat center !important;
+}
+
+.icon-dir-row-rev {
+    background: url("https://grapesjs.com/img/flex-dir-row-rev.png") no-repeat center !important;
+}
+
+.icon-dir-col {
+    background: url("https://grapesjs.com/img/flex-dir-col.png") no-repeat center !important;
+}
+
+.icon-dir-col-rev {
+    background: url("https://grapesjs.com/img/flex-dir-col-rev.png") no-repeat center !important;
+}
+
+.icon-just-start {
+    background: url("https://grapesjs.com/img/flex-just-start.png") no-repeat center !important;
+}
+
+.icon-just-end {
+    background: url("https://grapesjs.com/img/flex-just-end.png") no-repeat center !important;
+}
+
+.icon-just-sp-bet {
+    background: url("https://grapesjs.com/img/flex-just-sp-bet.png") no-repeat center !important;
+}
+
+.icon-just-sp-ar {
+    background: url("https://grapesjs.com/img/flex-just-sp-ar.png") no-repeat center !important;
+}
+
+.icon-just-sp-cent {
+    background: url("https://grapesjs.com/img/flex-just-sp-cent.png") no-repeat center !important;
+}
+
+.icon-al-start {
+    background: url("https://grapesjs.com/img/flex-al-start.png") no-repeat center !important;
+}
+
+.icon-al-end {
+    background: url("https://grapesjs.com/img/flex-al-end.png") no-repeat center !important;
+}
+
+.icon-al-str {
+    background: url("https://grapesjs.com/img/flex-al-str.png") no-repeat center !important;
+}
+
+.icon-al-center {
+    background: url("https://grapesjs.com/img/flex-al-center.png") no-repeat center !important;
+}
+
+[data-tooltip]::after {
+    background: rgba(51, 51, 51, 0.9) !important;
+}
+
+.gjs-pn-commands {
+    min-height: 40px !important;
+}
+
+#gjs-sm-float {
+    display: none !important;
+}
+
+.gjs-logo-version {
+    background-color: #212838 !important;
+}
+
+.gjs-pn-btn.gjs-pn-active {
+    box-shadow: none !important;
+}
+
+.CodeMirror {
+    min-height: 450px !important;
+    margin-bottom: 8px !important;
+}
+
+.grp-handler-close {
+    background-color: transparent !important;
+    color: #ddd !important;
+}
+
+.grp-handler-cp-wrap {
+    border-color: transparent !important;
+}

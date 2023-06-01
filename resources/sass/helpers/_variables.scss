@@ -1,0 +1,15 @@
+:root {
+    --main-color: #2884b5;
+    --second-color: #38cbbf;
+    --thired-color: #e15421;
+    --body-bg: #f6f8fc;
+}
+
+// Body
+$body-bg: var(--body-bg);
+$body-bgS: $body-bg;
+$mainColor: var(--main-color);
+$secondColor: var(--second-color);
+$thiredColor: var(--thired-color);
+$textColor2: #4a4a4a;
+$textColor1: #232327;
